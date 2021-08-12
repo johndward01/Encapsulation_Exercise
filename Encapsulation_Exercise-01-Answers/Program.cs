@@ -42,7 +42,7 @@ namespace Encapsulation_Exercise_01_Answers
 
 
 
-            // Thought Experiment: How would you access the myVar variable and print it out to the console?
+            // Thought Experiment: How would you access the private myVar variable and print it out to the console?
             // TODO: Console.WriteLine(MyProperty); 
             // Why?: 
 
