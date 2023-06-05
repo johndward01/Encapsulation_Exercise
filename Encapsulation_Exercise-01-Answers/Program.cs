@@ -11,7 +11,7 @@ namespace Encapsulation_Exercise_01_Answers
         // TODO: Create 4 public methods to set (write) those fields
 
         // TODO: Create 2 private auto-implemented properties 
-        // TODO: Creaet 1 method called SetInfo() which sets the private properties
+        // TODO: Create 1 method called SetInfo() which sets the private properties
         // TODO: Create 1 method called InformationReport() which creatively displays the 2 private properties 
 
         // BONUS
